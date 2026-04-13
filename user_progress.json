@@ -1,0 +1,78 @@
+{
+  "username": "Kullanıcı",
+  "unlocked_letters": [
+    "A",
+    "C",
+    "I",
+    "L",
+    "O"
+  ],
+  "current_level": 2,
+  "letter_scores": {
+    "A": [
+      7.2,
+      7.2,
+      7.2,
+      7.2,
+      7.2,
+      6.3
+    ],
+    "O": [
+      6.4,
+      6.5,
+      6.3
+    ]
+  },
+  "letter_streaks": {
+    "A": 0,
+    "O": 0
+  },
+  "mode": "letter",
+  "total_attempts": 9,
+  "streak": 0,
+  "word_scores": {},
+  "completed_words": [],
+  "sessions": [
+    {
+      "date": "2026-04-13T15:02:57.048536",
+      "attempts": 0,
+      "avg_score": 0.0
+    },
+    {
+      "date": "2026-04-13T15:03:36.355555",
+      "attempts": 0,
+      "avg_score": 0.0
+    },
+    {
+      "date": "2026-04-13T15:06:07.091813",
+      "attempts": 0,
+      "avg_score": 0.0
+    },
+    {
+      "date": "2026-04-13T15:14:49.886090",
+      "attempts": 0,
+      "avg_score": 0.0
+    },
+    {
+      "date": "2026-04-13T15:22:13.169938",
+      "attempts": 0,
+      "avg_score": 0.0
+    },
+    {
+      "date": "2026-04-13T15:36:25.645227",
+      "attempts": 0,
+      "avg_score": 0.0
+    },
+    {
+      "date": "2026-04-13T15:46:23.662699",
+      "attempts": 7,
+      "avg_score": 6.99
+    },
+    {
+      "date": "2026-04-13T15:52:08.233468",
+      "attempts": 2,
+      "avg_score": 6.3
+    }
+  ],
+  "last_saved": "2026-04-13T15:53:36.507095"
+}
